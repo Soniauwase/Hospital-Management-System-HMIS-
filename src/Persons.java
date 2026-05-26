@@ -101,9 +101,7 @@ public   class  Persons {
     public  void  display(){
         System.out.println(
                 ", personId=" + personId +
-                ", personPhone=" + personPhone +
-                ", personEmail='" + personEmail + '\'' +
-                ", personRole='" + personRole + '\'' +
+                ", personRole='" + personRole  +
                 ", personAge=" + personAge);
 
     }
